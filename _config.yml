@@ -9,10 +9,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name"
+title                    : "Afzalur Rahaman Choudhury"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "Data Science Portfolio"
+name                     : "Afzalur Rahaman Chooudhury"
+description              : "Portfolio Site Test"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -62,7 +62,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               :"@tweetsofsajid"
 facebook:
   username               :
   app_id                 :
@@ -84,21 +84,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Afzalur Rahaman Choudhury"
   avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science Portfolio"
-  location         : "Your Location"
-  email            :
+  bio              : "Portfolio Test Site"
+  location         : "Assam, India"
+  email            : "afzalursajid@gmail.com"
   uri              :
-  home             : # null (default), "absolute or relative url to link to author home"
+  home             : "/afzalursajid.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Your Github"
-  gitlab           :
+  github           : "github.com/afzalursajid"
+  gitlab           : "gitlab.com/afzalursajid"
   google_plus      :
   keybase          :
   instagram        :
