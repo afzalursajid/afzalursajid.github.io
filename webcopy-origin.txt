@@ -1,0 +1,248 @@
+Uri: https://kuon.space/
+File Name: C:\Downloaded Web Sites\kuon.space\index.htm
+Content Type: text/html
+
+Uri: https://kuon.space/assets/css/jquery.fullPage.css
+File Name: C:\Downloaded Web Sites\kuon.space\assets\css\jquery.fullPage.css
+Content Type: text/css
+
+Uri: https://kuon.space/assets/css/common.css
+File Name: C:\Downloaded Web Sites\kuon.space\assets\css\common.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.0.6/css/all.css
+File Name: C:\Downloaded Web Sites\kuon.space\releases\v5.0.6\css\all.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Abril+Fatface
+File Name: C:\Downloaded Web Sites\kuon.space\css.css
+Content Type: text/css
+
+Uri: https://kuon.space/favicon.ico
+File Name: C:\Downloaded Web Sites\kuon.space\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://kuon.space/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\kuon.space\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://kuon.space/awwwards.css
+File Name: C:\Downloaded Web Sites\kuon.space\awwwards.css
+Content Type: text/css
+
+Uri: https://twitter.com/Goldi69s
+File Name: C:\Downloaded Web Sites\kuon.space\Goldi69s.html
+Content Type: text/html
+
+Uri: https://dribbble.com/kuon_yagi
+File Name: C:\Downloaded Web Sites\kuon.space\kuon_yagi.html
+Content Type: text/html
+
+Uri: https://kuon.space/reile.html
+File Name: C:\Downloaded Web Sites\kuon.space\reile.html
+Content Type: text/html
+
+Uri: https://kuon.space/about.html
+File Name: C:\Downloaded Web Sites\kuon.space\about.html
+Content Type: text/html
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-115155070-1
+File Name: C:\Downloaded Web Sites\kuon.space\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://kuon.space/assets/img/cloud1.svg
+File Name: C:\Downloaded Web Sites\kuon.space\assets\img\cloud1.svg
+Content Type: image/svg+xml
+
+Uri: https://kuon.space/assets/img/b_cloud02.svg
+File Name: C:\Downloaded Web Sites\kuon.space\assets\img\b_cloud02.svg
+Content Type: image/svg+xml
+
+Uri: https://kuon.space/assets/img/cloud2.svg
+File Name: C:\Downloaded Web Sites\kuon.space\assets\img\cloud2.svg
+Content Type: image/svg+xml
+
+Uri: https://kuon.space/assets/img/moon.svg
+File Name: C:\Downloaded Web Sites\kuon.space\assets\img\moon.svg
+Content Type: image/svg+xml
+
+Uri: https://kuon.space/assets/img/cloud3.svg
+File Name: C:\Downloaded Web Sites\kuon.space\assets\img\cloud3.svg
+Content Type: image/svg+xml
+
+Uri: https://kuon.space/assets/img/b_cloud01.svg
+File Name: C:\Downloaded Web Sites\kuon.space\assets\img\b_cloud01.svg
+Content Type: image/svg+xml
+
+Uri: https://kuon.space/assets/img/star.svg
+File Name: C:\Downloaded Web Sites\kuon.space\assets\img\star.svg
+Content Type: image/svg+xml
+
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\kuon.space\ajax\libs\jquery\3.3.1\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://kuon.space/assets/js/jquery.fullPage.js
+File Name: C:\Downloaded Web Sites\kuon.space\assets\js\jquery.fullPage.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/animejs/2.2.0/anime.min.js
+File Name: C:\Downloaded Web Sites\kuon.space\ajax\libs\animejs\2.2.0\anime.min.js
+Content Type: application/javascript
+
+Uri: https://kuon.space/assets/js/parallax.js
+File Name: C:\Downloaded Web Sites\kuon.space\assets\js\parallax.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/barba.js/1.0.0/barba.min.js
+File Name: C:\Downloaded Web Sites\kuon.space\ajax\libs\barba.js\1.0.0\barba.min.js
+Content Type: application/javascript
+
+Uri: https://kuon.space/assets/js/common.min.js
+File Name: C:\Downloaded Web Sites\kuon.space\assets\js\common.min.js
+Content Type: application/javascript
+
+Uri: https://kuon.space/assets/font/Futura-Med.eot
+File Name: C:\Downloaded Web Sites\kuon.space\assets\font\Futura-Med.eot
+Content Type: application/octet-stream
+
+Uri: https://kuon.space/assets/font/Futura-Med.woff
+File Name: C:\Downloaded Web Sites\kuon.space\assets\font\Futura-Med.woff
+Content Type: application/font-woff
+
+Uri: https://kuon.space/assets/font/Futura-Boo.eot
+File Name: C:\Downloaded Web Sites\kuon.space\assets\font\Futura-Boo.eot
+Content Type: application/octet-stream
+
+Uri: https://kuon.space/assets/font/Futura-Boo.woff
+File Name: C:\Downloaded Web Sites\kuon.space\assets\font\Futura-Boo.woff
+Content Type: application/font-woff
+
+Uri: https://kuon.space/assets/font/Futura-Bol.eot
+File Name: C:\Downloaded Web Sites\kuon.space\assets\font\Futura-Bol.eot
+Content Type: application/octet-stream
+
+Uri: https://kuon.space/assets/font/Futura-Bol.woff
+File Name: C:\Downloaded Web Sites\kuon.space\assets\font\Futura-Bol.woff
+Content Type: application/font-woff
+
+Uri: https://kuon.space/assets/font/Futura-Dem.eot
+File Name: C:\Downloaded Web Sites\kuon.space\assets\font\Futura-Dem.eot
+Content Type: application/octet-stream
+
+Uri: https://kuon.space/assets/font/Futura-Dem.woff
+File Name: C:\Downloaded Web Sites\kuon.space\assets\font\Futura-Dem.woff
+Content Type: application/font-woff
+
+Uri: https://kuon.space/assets/img/reile.jpg
+File Name: C:\Downloaded Web Sites\kuon.space\assets\img\reile.jpg
+Content Type: image/jpeg
+
+Uri: https://kuon.space/assets/img/about.jpg
+File Name: C:\Downloaded Web Sites\kuon.space\assets\img\about.jpg
+Content Type: image/jpeg
+
+Uri: https://kuon.space/assets/img/contact.jpg
+File Name: C:\Downloaded Web Sites\kuon.space\assets\img\contact.jpg
+Content Type: image/jpeg
+
+Uri: https://kuon.space/assets/img/moonlight.svg
+File Name: C:\Downloaded Web Sites\kuon.space\assets\img\moonlight.svg
+Content Type: image/svg+xml
+
+Uri: https://kuon.space/assets/img/Perspective.jpg
+File Name: C:\Downloaded Web Sites\kuon.space\assets\img\Perspective.jpg
+Content Type: image/jpeg
+
+Uri: https://kuon.space/ribbons/awwwards_honorable_white_right.png
+File Name: C:\Downloaded Web Sites\kuon.space\ribbons\awwwards_honorable_white_right.png
+Content Type: image/png
+
+Uri: https://kuon.space/ribbons/awwwards_honorable_white_right@2x.png
+File Name: C:\Downloaded Web Sites\kuon.space\ribbons\awwwards_honorable_white_right@2x.png
+Content Type: image/png
+
+Uri: https://www.wantedly.com/id/kuon
+File Name: C:\Downloaded Web Sites\kuon.space\id\kuon.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/kuon_y/
+File Name: C:\Downloaded Web Sites\kuon.space\kuon_y\index.htm
+Content Type: text/html
+
+Uri: https://mens-reile.com/
+File Name: C:\Downloaded Web Sites\kuon.space\index-2.htm
+Content Type: text/html
+
+Uri: https://kuon.space/assets/img/mockup.png
+File Name: C:\Downloaded Web Sites\kuon.space\assets\img\mockup.png
+Content Type: image/png
+
+Uri: https://kuon.space/assets/img/reile_top.jpg
+File Name: C:\Downloaded Web Sites\kuon.space\assets\img\reile_top.jpg
+Content Type: image/jpeg
+
+Uri: https://kuon.space/assets/img/reile_about.jpg
+File Name: C:\Downloaded Web Sites\kuon.space\assets\img\reile_about.jpg
+Content Type: image/jpeg
+
+Uri: https://kuon.space/assets/img/portrait.jpg
+File Name: C:\Downloaded Web Sites\kuon.space\assets\img\portrait.jpg
+Content Type: image/jpeg
+
+Uri: https://kuon.space/assets/img/design-skills.svg
+File Name: C:\Downloaded Web Sites\kuon.space\assets\img\design-skills.svg
+Content Type: image/svg+xml
+
+Uri: https://kuon.space/assets/img/tech.svg
+File Name: C:\Downloaded Web Sites\kuon.space\assets\img\tech.svg
+Content Type: image/svg+xml
+
+Uri: https://kuon.space/assets/img/book-open.svg
+File Name: C:\Downloaded Web Sites\kuon.space\assets\img\book-open.svg
+Content Type: image/svg+xml
+
+Uri: https://kuon.space/assets/img/ai.svg
+File Name: C:\Downloaded Web Sites\kuon.space\assets\img\ai.svg
+Content Type: image/svg+xml
+
+Uri: https://kuon.space/assets/img/sketch.svg
+File Name: C:\Downloaded Web Sites\kuon.space\assets\img\sketch.svg
+Content Type: image/svg+xml
+
+Uri: https://kuon.space/assets/img/abstract.svg
+File Name: C:\Downloaded Web Sites\kuon.space\assets\img\abstract.svg
+Content Type: image/svg+xml
+
+Uri: https://kuon.space/assets/img/ps.svg
+File Name: C:\Downloaded Web Sites\kuon.space\assets\img\ps.svg
+Content Type: image/svg+xml
+
+Uri: https://kuon.space/assets/img/flinto.png
+File Name: C:\Downloaded Web Sites\kuon.space\assets\img\flinto.png
+Content Type: image/png
+
+Uri: https://kuon.space/assets/img/html.svg
+File Name: C:\Downloaded Web Sites\kuon.space\assets\img\html.svg
+Content Type: image/svg+xml
+
+Uri: https://kuon.space/assets/img/pug.svg
+File Name: C:\Downloaded Web Sites\kuon.space\assets\img\pug.svg
+Content Type: image/svg+xml
+
+Uri: https://kuon.space/assets/img/wp.svg
+File Name: C:\Downloaded Web Sites\kuon.space\assets\img\wp.svg
+Content Type: image/svg+xml
+
+Uri: https://kuon.space/assets/img/sass.svg
+File Name: C:\Downloaded Web Sites\kuon.space\assets\img\sass.svg
+Content Type: image/svg+xml
+
+Uri: https://kuon.space/assets/img/js.svg
+File Name: C:\Downloaded Web Sites\kuon.space\assets\img\js.svg
+Content Type: image/svg+xml
+
+Uri: https://www.awwwards.com/
+File Name: C:\Downloaded Web Sites\kuon.space\index-1.htm
+Content Type: text/html
+
